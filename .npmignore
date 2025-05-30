@@ -1,0 +1,38 @@
+# Development files
+node_modules/
+.git/
+.gitignore
+
+# Firebase credentials
+firebase-key.json
+c-legal-key.json
+
+# Development scripts
+firebase-scripts/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db 
