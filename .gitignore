@@ -1,0 +1,9 @@
+node_modules/
+firebase-key.json
+*.log
+.env
+.DS_Store
+dist/
+build/ 
+c-legal-key.json
+firebase-key.example.json
