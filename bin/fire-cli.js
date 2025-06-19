@@ -19,7 +19,7 @@ const program = new Command();
 program
   .name("fire-cli")
   .description("CLI tool for executing Firebase scripts")
-  .version("1.0.0");
+  .version("1.0.2");
 
 // Comando para generar archivo de configuración de ejemplo
 program
